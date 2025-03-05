@@ -1,6 +1,6 @@
 // package pw1and2;
-
-public class exercise6 {
+//EXERCISE 6
+public class ArraySearch {
 
     public static void main(String[] args) {
         int[] array1D = { 10, 20, 30, 40, 50 };
@@ -19,6 +19,7 @@ public class exercise6 {
         System.out.println("2D Array Search:");
         System.out.println("Indices of " + value2D + ": [" + index2D[0] + ", " + index2D[1] + "]");
     }
+
     public static int search(int[] array, int value) {
         for (int i = 0; i < array.length; i++) {
             if (array[i] == value) {
@@ -27,6 +28,7 @@ public class exercise6 {
         }
         return -1;
     }
+
     public static int[] search(int[][] array, int value) {
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {

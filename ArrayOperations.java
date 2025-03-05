@@ -1,5 +1,6 @@
 // package pw1and2;
-public class exercise2 {
+//EXERCISE 2
+public class ArrayOperations {
     public static void main(String[] args) {
         int[] array = { 3, 4, 5, 34, 87, 1, 2, -2, 77, 100 };
         System.out.println("The minimum number in the array is: " + min(array));

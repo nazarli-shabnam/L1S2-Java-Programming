@@ -1,8 +1,9 @@
 // package pw1and2;
+//EXERCISE 3
 import java.util.Scanner;
 
 
-public class exercise3 {
+public class ConditionalStatements {
     public  static void main(String[] args){
         Scanner myObj = new Scanner(System.in);
         System.out.println("Enter two numbers: ");

@@ -1,5 +1,6 @@
 // package pw1and2;
-public class exercise1{
+//EXERCISE 1
+public class IntegerOperations{
 
 
     public static void main(String[] args) throws Exception {

@@ -1,6 +1,6 @@
 // package pw1and2;
-
-public class exercise5 {
+//EXERCISE 5
+public class MatrixMultiplication {
     public static void main(String[] args) {
         float[][] matA = { { 1, 2 }, { 3, 4 } };
         float[][] matB = { { 5, 6 }, { 7, 8 } };

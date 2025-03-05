@@ -1,8 +1,8 @@
 // package pw1and2;
-
+//EXERCISE 4
 import java.util.Scanner;
 
-public class exercise4 {
+public class BasicCalculator {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
 
